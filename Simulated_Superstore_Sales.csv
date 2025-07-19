@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Region,Category,Sub-Category,State,City,Sales,Quantity,Discount,Profit
+CA-2023-1000,2025-05-21,2025-05-25,First Class,Patrick Sanchez,Consumer,East,Office Supplies,Paper,Texas,Houston,870.84,5,0.1,250.52
+CA-2023-1001,2025-02-13,2025-02-18,Standard Class,Megan Mcclain,Home Office,South,Furniture,Chairs,Texas,Austin,1659.06,5,0.1,331.26
+CA-2023-1002,2025-02-02,2025-02-03,Same Day,Amanda Davis,Home Office,Central,Technology,Phones,New York,New York,172.9,2,0.0,15.39
+CA-2023-1003,2025-03-03,2025-03-05,First Class,Alyssa Gonzalez,Home Office,West,Furniture,Chairs,California,San Diego,153.84,5,0.2,41.01
+CA-2023-1004,2025-05-23,2025-05-25,Same Day,Jennifer Cole,Home Office,Central,Furniture,Chairs,Texas,Houston,1522.75,5,0.0,345.69
+CA-2023-1005,2025-03-12,2025-03-14,First Class,Abigail Shaffer,Consumer,East,Technology,Accessories,California,San Diego,54.24,3,0.1,15.86
+CA-2023-1006,2025-06-01,2025-06-06,Same Day,Donald Lewis,Corporate,South,Furniture,Chairs,Florida,Orlando,1671.6,4,0.0,172.32
+CA-2023-1007,2025-06-14,2025-06-16,Same Day,Brandon Davis,Corporate,East,Office Supplies,Paper,Texas,Austin,198.18,2,0.0,19.0
+CA-2023-1008,2025-06-30,2025-07-01,Standard Class,Dennis Williams,Home Office,South,Office Supplies,Binders,Florida,Miami,636.32,4,0.0,115.29
+CA-2023-1009,2025-04-16,2025-04-21,Standard Class,Valerie Gray,Consumer,East,Furniture,Bookcases,New York,Buffalo,221.65,1,0.0,27.22
+CA-2023-1010,2025-05-04,2025-05-09,Same Day,Mark Mcclure,Corporate,South,Office Supplies,Binders,New York,Buffalo,743.54,3,0.2,63.11
+CA-2023-1011,2025-03-28,2025-04-01,Second Class,Michele Williams,Home Office,West,Office Supplies,Binders,Texas,Austin,612.6,4,0.0,86.74
+CA-2023-1012,2025-03-02,2025-03-03,Standard Class,Victoria Wyatt,Corporate,West,Office Supplies,Paper,Florida,Miami,700.41,3,0.0,172.51
+CA-2023-1013,2025-07-04,2025-07-06,First Class,Donald Reid,Home Office,South,Technology,Phones,Texas,Austin,485.28,5,0.1,86.65
+CA-2023-1014,2025-03-28,2025-03-29,Same Day,Henry Santiago,Home Office,East,Office Supplies,Storage,Texas,Houston,1201.12,5,0.2,74.0
+CA-2023-1015,2025-06-02,2025-06-07,Standard Class,Maria Lynch,Corporate,West,Furniture,Tables,New York,New York,553.86,2,0.1,51.3
+CA-2023-1016,2025-02-19,2025-02-24,Second Class,Danielle Ford,Consumer,East,Furniture,Bookcases,New York,Buffalo,134.02,4,0.2,38.49
+CA-2023-1017,2025-03-10,2025-03-11,First Class,Margaret Hawkins DDS,Consumer,West,Furniture,Tables,Texas,Houston,1159.58,3,0.2,292.33
+CA-2023-1018,2025-06-29,2025-07-04,Second Class,Amy Underwood,Consumer,West,Office Supplies,Binders,New York,Buffalo,143.33,1,0.1,10.67
+CA-2023-1019,2025-06-22,2025-06-27,Same Day,Derek Clark,Corporate,West,Furniture,Tables,Florida,Orlando,1726.35,5,0.0,276.28
+CA-2023-1020,2025-05-07,2025-05-08,Standard Class,Emily Rios,Home Office,Central,Office Supplies,Storage,Texas,Houston,167.52,3,0.2,29.11
+CA-2023-1021,2025-04-03,2025-04-04,Same Day,Maria Thomas,Consumer,East,Furniture,Chairs,New York,New York,107.4,4,0.0,29.79
+CA-2023-1022,2025-02-13,2025-02-14,First Class,Justin Baker,Consumer,West,Office Supplies,Paper,Texas,Houston,410.4,3,0.0,88.49
+CA-2023-1023,2025-05-10,2025-05-12,Standard Class,Kevin Cox,Home Office,West,Technology,Accessories,California,San Diego,390.58,3,0.2,70.31
+CA-2023-1024,2025-02-12,2025-02-14,Second Class,Ann Williams,Consumer,South,Furniture,Tables,Florida,Miami,750.3,3,0.1,72.19
+CA-2023-1025,2025-02-07,2025-02-11,First Class,Christopher Becker,Consumer,East,Technology,Copiers,Florida,Miami,1309.77,3,0.1,319.3
+CA-2023-1026,2025-05-12,2025-05-14,Same Day,James Ferrell,Consumer,South,Office Supplies,Binders,Florida,Miami,1269.95,3,0.1,347.59
+CA-2023-1027,2025-04-29,2025-04-30,Same Day,Juan Dunlap,Home Office,South,Furniture,Tables,California,Los Angeles,1211.88,4,0.0,339.89
+CA-2023-1028,2025-05-29,2025-05-31,Standard Class,Melanie Herrera,Consumer,Central,Technology,Accessories,Texas,Houston,240.12,5,0.1,23.77
+CA-2023-1029,2025-03-09,2025-03-10,First Class,Gina Carter,Home Office,West,Office Supplies,Storage,Texas,Austin,160.8,5,0.0,21.12
+CA-2023-1030,2025-02-16,2025-02-19,First Class,Troy Liu,Home Office,South,Technology,Copiers,Florida,Orlando,601.35,3,0.0,70.86
+CA-2023-1031,2025-03-09,2025-03-13,First Class,Pamela Romero,Consumer,Central,Technology,Phones,California,San Diego,1872.36,5,0.1,260.61
+CA-2023-1032,2025-02-06,2025-02-10,Standard Class,Elizabeth Fowler,Consumer,Central,Office Supplies,Storage,Texas,Houston,147.66,1,0.0,27.42
+CA-2023-1033,2025-05-15,2025-05-18,First Class,James Martin,Corporate,West,Furniture,Tables,New York,New York,316.2,4,0.0,79.22
+CA-2023-1034,2025-06-17,2025-06-22,Same Day,Tamara George,Corporate,Central,Technology,Accessories,California,San Diego,209.39,5,0.1,62.13
+CA-2023-1035,2025-04-21,2025-04-25,Standard Class,Timothy Koch,Consumer,West,Technology,Phones,Texas,Austin,699.12,2,0.1,69.69
+CA-2023-1036,2025-06-27,2025-06-28,Standard Class,Cynthia Allen,Home Office,South,Technology,Copiers,Texas,Austin,40.67,4,0.2,10.32
+CA-2023-1037,2025-05-07,2025-05-09,Second Class,Angelica Tucker,Corporate,Central,Office Supplies,Storage,Texas,Houston,712.72,2,0.0,165.53
+CA-2023-1038,2025-01-30,2025-02-03,Standard Class,Kim Martinez,Corporate,East,Technology,Phones,Florida,Orlando,1163.76,3,0.0,79.73
+CA-2023-1039,2025-05-25,2025-05-29,Standard Class,Joshua Baker,Home Office,West,Technology,Copiers,New York,Buffalo,835.43,5,0.1,65.97
+CA-2023-1040,2025-07-05,2025-07-08,Standard Class,Tracey Hickman,Corporate,East,Technology,Copiers,Texas,Houston,1168.88,3,0.1,240.58
+CA-2023-1041,2025-06-12,2025-06-13,Same Day,Christina Collins,Home Office,West,Technology,Accessories,New York,New York,688.56,5,0.2,45.37
+CA-2023-1042,2025-05-27,2025-05-28,Second Class,Jessica Holmes,Home Office,Central,Technology,Phones,California,San Diego,129.9,1,0.2,17.06
+CA-2023-1043,2025-02-09,2025-02-11,Same Day,Austin Smith,Home Office,East,Technology,Accessories,New York,New York,588.02,2,0.2,123.13
+CA-2023-1044,2025-05-04,2025-05-05,Standard Class,Daniel Jones,Consumer,East,Furniture,Bookcases,California,Los Angeles,1423.14,4,0.2,239.16
+CA-2023-1045,2025-05-19,2025-05-22,Same Day,Austin Johnson,Corporate,East,Office Supplies,Binders,New York,New York,137.2,2,0.0,31.32
+CA-2023-1046,2025-03-22,2025-03-27,First Class,David Caldwell,Home Office,East,Furniture,Chairs,New York,New York,689.0,2,0.1,131.13
+CA-2023-1047,2025-02-27,2025-03-03,First Class,Miranda Khan,Consumer,South,Office Supplies,Binders,Texas,Houston,697.99,2,0.1,121.07
+CA-2023-1048,2025-05-08,2025-05-10,Standard Class,Richard Aguirre,Consumer,South,Furniture,Tables,California,Los Angeles,718.58,3,0.1,112.73
+CA-2023-1049,2025-02-22,2025-02-27,First Class,Matthew Gomez,Home Office,South,Furniture,Chairs,New York,New York,89.84,5,0.2,6.92
+CA-2023-1050,2025-04-06,2025-04-11,Second Class,Nicholas Nunez,Consumer,Central,Furniture,Bookcases,Texas,Austin,76.2,3,0.0,15.93
+CA-2023-1051,2025-05-22,2025-05-26,Second Class,James Morgan,Corporate,Central,Office Supplies,Storage,New York,Buffalo,442.88,3,0.1,78.45
+CA-2023-1052,2025-07-03,2025-07-07,First Class,Corey Herrera,Corporate,West,Furniture,Bookcases,New York,New York,909.42,2,0.0,102.15
+CA-2023-1053,2025-02-13,2025-02-16,Standard Class,Donald Wright,Home Office,West,Office Supplies,Storage,New York,Buffalo,949.91,5,0.1,226.92
+CA-2023-1054,2025-07-15,2025-07-18,First Class,Robert Chase,Home Office,South,Office Supplies,Binders,New York,New York,439.6,4,0.1,30.44
+CA-2023-1055,2025-02-05,2025-02-06,Standard Class,Zachary Huff,Corporate,Central,Furniture,Chairs,California,Los Angeles,455.94,3,0.0,41.17
+CA-2023-1056,2025-02-04,2025-02-07,Same Day,Sarah Martin,Consumer,South,Furniture,Chairs,Florida,Miami,372.44,1,0.2,93.87
+CA-2023-1057,2025-04-21,2025-04-22,Standard Class,Dr. Steven Martin,Corporate,East,Furniture,Bookcases,California,San Diego,256.3,1,0.2,68.65
+CA-2023-1058,2025-01-17,2025-01-18,Second Class,Mrs. Rachel Gibson,Home Office,West,Office Supplies,Paper,New York,Buffalo,363.42,1,0.1,35.12
+CA-2023-1059,2025-04-09,2025-04-11,Same Day,Monica Logan,Consumer,Central,Technology,Copiers,New York,New York,2013.08,5,0.1,372.09
+CA-2023-1060,2025-05-25,2025-05-29,First Class,Brittney Phillips,Home Office,East,Office Supplies,Binders,New York,Buffalo,1622.6,4,0.0,444.63
+CA-2023-1061,2025-01-28,2025-02-01,Same Day,Kimberly Adkins,Corporate,East,Office Supplies,Storage,Texas,Austin,829.1,5,0.0,64.27
+CA-2023-1062,2025-01-28,2025-01-31,Same Day,John Calhoun,Consumer,South,Technology,Copiers,Florida,Orlando,486.76,4,0.0,76.31
+CA-2023-1063,2025-04-30,2025-05-01,Standard Class,Tyler Miller,Home Office,Central,Technology,Phones,New York,New York,1109.24,3,0.1,294.15
+CA-2023-1064,2025-02-22,2025-02-26,Same Day,Barry Hensley,Home Office,West,Technology,Accessories,California,Los Angeles,24.14,2,0.1,4.29
+CA-2023-1065,2025-04-05,2025-04-06,First Class,Steve Sanchez,Home Office,East,Office Supplies,Binders,New York,New York,214.53,1,0.0,22.64
+CA-2023-1066,2025-05-12,2025-05-13,First Class,Bradley Sandoval,Consumer,West,Office Supplies,Binders,Florida,Miami,123.71,2,0.1,16.63
+CA-2023-1067,2025-05-06,2025-05-07,Second Class,Taylor Harris,Consumer,East,Office Supplies,Storage,California,San Diego,1699.31,4,0.1,222.27
+CA-2023-1068,2025-06-05,2025-06-09,First Class,Derek Anderson,Consumer,South,Technology,Copiers,New York,Buffalo,528.42,2,0.0,119.29
+CA-2023-1069,2025-05-22,2025-05-26,Standard Class,Eugene Walton,Home Office,East,Office Supplies,Paper,New York,Buffalo,752.72,5,0.2,220.51
+CA-2023-1070,2025-01-31,2025-02-02,First Class,Marc Hart,Corporate,East,Furniture,Tables,California,San Diego,1733.76,4,0.1,195.82
+CA-2023-1071,2025-02-05,2025-02-09,First Class,Daniel Baker,Home Office,Central,Office Supplies,Binders,New York,Buffalo,811.68,4,0.2,101.64
+CA-2023-1072,2025-07-17,2025-07-22,Standard Class,Benjamin Sanchez,Consumer,West,Office Supplies,Paper,California,Los Angeles,239.31,2,0.2,14.17
+CA-2023-1073,2025-03-13,2025-03-18,Same Day,Roy Warner,Consumer,Central,Office Supplies,Paper,California,Los Angeles,1234.76,4,0.0,216.91
+CA-2023-1074,2025-05-15,2025-05-18,Same Day,Dr. Kendra Contreras,Corporate,Central,Furniture,Chairs,California,Los Angeles,28.18,1,0.2,3.37
+CA-2023-1075,2025-05-04,2025-05-09,Second Class,Matthew Mcmillan,Corporate,East,Furniture,Tables,New York,New York,409.55,1,0.1,45.01
+CA-2023-1076,2025-02-12,2025-02-13,Same Day,Steve Newton,Corporate,Central,Technology,Copiers,California,Los Angeles,259.2,4,0.2,44.68
+CA-2023-1077,2025-02-16,2025-02-17,First Class,Larry Robbins,Home Office,East,Office Supplies,Storage,California,Los Angeles,985.94,2,0.0,108.96
+CA-2023-1078,2025-02-25,2025-03-02,Same Day,Sarah Wagner,Corporate,South,Technology,Phones,New York,Buffalo,1357.4,5,0.2,326.33
+CA-2023-1079,2025-03-06,2025-03-08,Standard Class,Sarah Davis,Home Office,South,Furniture,Chairs,Florida,Miami,632.2,5,0.0,146.7
+CA-2023-1080,2025-04-09,2025-04-10,Standard Class,Amanda Cook,Consumer,Central,Technology,Copiers,New York,New York,608.67,4,0.2,126.65
+CA-2023-1081,2025-02-11,2025-02-15,Same Day,Deborah Figueroa,Home Office,Central,Furniture,Bookcases,New York,New York,1441.94,5,0.1,265.24
+CA-2023-1082,2025-05-04,2025-05-05,Same Day,Kristina Rodriguez,Corporate,West,Furniture,Bookcases,California,San Diego,195.26,4,0.1,50.54
+CA-2023-1083,2025-07-07,2025-07-08,First Class,Brittany Johnson,Corporate,East,Furniture,Tables,Texas,Houston,334.36,2,0.0,32.31
+CA-2023-1084,2025-03-29,2025-04-03,Second Class,Brittany Anderson,Corporate,South,Furniture,Tables,California,San Diego,26.98,1,0.1,5.33
+CA-2023-1085,2025-03-17,2025-03-18,Same Day,Timothy Stanton,Home Office,South,Technology,Phones,Texas,Austin,1231.24,4,0.1,66.67
+CA-2023-1086,2025-01-24,2025-01-26,Standard Class,Christine Wright,Consumer,Central,Office Supplies,Paper,New York,Buffalo,234.84,1,0.1,25.04
+CA-2023-1087,2025-02-05,2025-02-09,Second Class,Justin Baxter,Home Office,Central,Furniture,Bookcases,Texas,Austin,880.55,3,0.1,82.41
+CA-2023-1088,2025-05-17,2025-05-18,Same Day,Tammy Young,Consumer,South,Furniture,Chairs,New York,Buffalo,941.11,3,0.1,138.05
+CA-2023-1089,2025-02-17,2025-02-18,Same Day,Rita Keith,Consumer,West,Technology,Accessories,California,San Diego,938.0,2,0.0,79.15
+CA-2023-1090,2025-01-21,2025-01-24,Standard Class,Tim Patton,Home Office,Central,Technology,Accessories,California,Los Angeles,283.39,2,0.2,22.21
+CA-2023-1091,2025-04-06,2025-04-08,Standard Class,Sharon Cochran,Home Office,East,Technology,Accessories,New York,Buffalo,1852.4,4,0.0,498.92
+CA-2023-1092,2025-03-09,2025-03-11,First Class,Michael Reyes,Home Office,East,Technology,Phones,Florida,Orlando,109.11,1,0.2,23.46
+CA-2023-1093,2025-01-24,2025-01-27,Same Day,Courtney Velasquez,Corporate,East,Office Supplies,Paper,New York,Buffalo,1641.76,5,0.2,309.96
+CA-2023-1094,2025-04-16,2025-04-21,First Class,Robert Savage,Home Office,East,Furniture,Bookcases,Texas,Houston,269.53,1,0.0,29.77
+CA-2023-1095,2025-03-01,2025-03-04,Standard Class,Corey Murphy,Home Office,South,Furniture,Bookcases,New York,Buffalo,177.98,4,0.2,48.82
+CA-2023-1096,2025-07-03,2025-07-04,Same Day,Raymond Bell,Consumer,East,Technology,Accessories,Florida,Miami,1804.8,5,0.2,375.9
+CA-2023-1097,2025-04-25,2025-04-27,Same Day,William Herrera,Corporate,Central,Technology,Accessories,California,San Diego,704.48,4,0.0,96.73
+CA-2023-1098,2025-07-18,2025-07-19,Second Class,Shawn Green,Consumer,South,Technology,Phones,Texas,Houston,731.44,2,0.0,200.62
+CA-2023-1099,2025-05-09,2025-05-12,Standard Class,Deborah Rodriguez,Corporate,West,Furniture,Bookcases,New York,Buffalo,400.2,1,0.1,98.04
